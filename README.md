@@ -1,6 +1,6 @@
 
 
-API endpoint: [http://a4d5c5647129311ea8d420a22cf9d500-2039112863.eu-west-1.elb.amazonaws.com/](http://a4d5c5647129311ea8d420a22cf9d500-2039112863.eu-west-1.elb.amazonaws.com/)
+API endpoint: [https://c7bb121ab07c0b712d7dbed0c5639002.gr7.us-west-2.eks.amazonaws.com/](https://c7bb121ab07c0b712d7dbed0c5639002.gr7.us-west-2.eks.amazonaws.com/)
 
 The Flask app that will be used for this project consists of a simple API with three endpoints:
     
